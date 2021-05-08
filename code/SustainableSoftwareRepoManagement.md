@@ -1,5 +1,16 @@
 # Sustainable Software Repository Management Policy
 
+## Contents
+### 1 Introduction
+### 2 Policy Objectives
+### 3 Developer Objectives
+### 4 Team Mentality
+### 5 Anyone Works on Anything
+### 6 Branching Strategies
+### 7 Additional Expectations
+
+---
+
 
 ## 1 Introduction
 This policy describes the software repository management technique that Toasted Marshmallow (Pty) Ltd expects it's employees to abide by when developing software for the company. The policy is open-source as we hope other companies will benefit from our techniques of developing software.
